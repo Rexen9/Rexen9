@@ -3,6 +3,7 @@
 
 ```csharp
 github.com/rexen9
+guns.lol/rexen9
 dc   $  @rexen9
 ```
 &zwnj; 
